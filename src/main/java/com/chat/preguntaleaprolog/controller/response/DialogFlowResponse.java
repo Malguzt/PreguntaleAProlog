@@ -3,6 +3,8 @@ package com.chat.preguntaleaprolog.controller.response;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
+
 import lombok.Getter;
 
 @JsonSerialize
