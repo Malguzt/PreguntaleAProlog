@@ -8,4 +8,7 @@ public class QueryResult {
 
   @Getter
   private String action;
+
+  @Getter
+  private Parameters parameters;
 }
